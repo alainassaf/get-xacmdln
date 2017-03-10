@@ -17,7 +17,7 @@ DESCRIPTION<br>
     Lists active published applications command line and working directory based on search word.
 
 PARAMETERS<br>
-    <pre>-SearchWord <Object>
+    -SearchWord <Object>
         Word to search published application command line for.
 		
         Required?                    true
@@ -40,7 +40,6 @@ PARAMETERS<br>
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see 
         about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
-		</pre>
     
 INPUTS<br>
     None
@@ -49,7 +48,7 @@ OUTPUTS<br>
     None
     
 NOTES
-        <pre>NAME        :  get-xacmdln
+        NAME        :  get-xacmdln
         VERSION     :  1.11
         CHANGE LOG - Version - When - What - Who
         1.00 - 03/10/2017 - Initial script - Alain Assaf
@@ -57,7 +56,6 @@ NOTES
         1.11 - 03/10/2017 - Added get-xmlbroker function - Alain Assaf
         LAST UPDATED:  03/10/2017
         AUTHOR      :  Alain Assaf
-		</pre>
     
     -------------------------- EXAMPLE 1 --------------------------
     
