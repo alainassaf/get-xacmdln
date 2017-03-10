@@ -16,10 +16,10 @@ SYNTAX<br>
 DESCRIPTION<br>
     Lists active published applications command line and working directory based on search word.
 
-PARAMETERS<br><pre>
-    -SearchWord <Object>
+PARAMETERS<br>
+    <pre>-SearchWord <Object>
         Word to search published application command line for.
-        
+		
         Required?                    true
         Position?                    1
         Default value                
@@ -39,7 +39,8 @@ PARAMETERS<br><pre>
         This cmdlet supports the common parameters: Verbose, Debug,
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see 
-        about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).</pre>
+        about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).
+		</pre>
     
 INPUTS<br>
     None
@@ -55,7 +56,8 @@ NOTES
         1.01 - 03/10/2017 - Changed user input to use wildcards - Alain Assaf
         1.11 - 03/10/2017 - Added get-xmlbroker function - Alain Assaf
         LAST UPDATED:  03/10/2017
-        AUTHOR      :  Alain Assaf</pre>
+        AUTHOR      :  Alain Assaf
+		</pre>
     
     -------------------------- EXAMPLE 1 --------------------------
     
