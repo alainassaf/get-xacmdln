@@ -48,14 +48,14 @@ OUTPUTS<br>
     None
     
 NOTES
-        <pre>NAME        :  get-xacmdln
-        VERSION     :  1.11
+	<pre>NAME:  get-xacmdln
+	   VERSION: 1.11
         CHANGE LOG - Version - When - What - Who
         1.00 - 03/10/2017 - Initial script - Alain Assaf
         1.01 - 03/10/2017 - Changed user input to use wildcards - Alain Assaf
         1.11 - 03/10/2017 - Added get-xmlbroker function - Alain Assaf
-        LAST UPDATED:  03/10/2017
-	AUTHOR      :  Alain Assaf</pre>
+        LAST UPDATED: 03/10/2017
+	    AUTHOR: Alain Assaf</pre>
     
     -------------------------- EXAMPLE 1 --------------------------
     
