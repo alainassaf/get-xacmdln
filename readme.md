@@ -55,7 +55,7 @@ NOTES
        1.01 - 03/10/2017 - Changed user input to use wildcards - Alain Assaf
        1.11 - 03/10/2017 - Added get-xmlbroker function - Alain Assaf
        LAST UPDATED: 03/10/2017
-	    AUTHOR: Alain Assaf</pre>
+	   AUTHOR: Alain Assaf</pre>
     
     -------------------------- EXAMPLE 1 --------------------------
     
