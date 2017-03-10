@@ -3,20 +3,20 @@ Lists active published applications command line and working directory based on 
 
 # PS> get-help .\get-xacmdln.ps1 -full
 
-NAME
+NAME<br>
     get-xacmdln.ps1
     
-SYNOPSIS
+SYNOPSIS<br>
     Lists active published applications command line and working directory based on search word.
     
-SYNTAX
+SYNTAX<br>
     get-xacmdln.ps1 [-SearchWord] <Object> [[-XMLBroker] <Object>] [<CommonParameters>]
     
     
-DESCRIPTION
+DESCRIPTION<br>
     Lists active published applications command line and working directory based on search word.
 
-PARAMETERS
+PARAMETERS<br><pre>
     -SearchWord <Object>
         Word to search published application command line for.
         
@@ -39,24 +39,23 @@ PARAMETERS
         This cmdlet supports the common parameters: Verbose, Debug,
         ErrorAction, ErrorVariable, WarningAction, WarningVariable,
         OutBuffer, PipelineVariable, and OutVariable. For more information, see 
-        about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216). 
+        about_CommonParameters (http://go.microsoft.com/fwlink/?LinkID=113216).</pre>
     
-INPUTS
+INPUTS<br>
     None
     
-OUTPUTS
+OUTPUTS<br>
     None
     
 NOTES
-    
-        NAME        :  get-xacmdln
+        <pre>NAME        :  get-xacmdln
         VERSION     :  1.11
         CHANGE LOG - Version - When - What - Who
         1.00 - 03/10/2017 - Initial script - Alain Assaf
         1.01 - 03/10/2017 - Changed user input to use wildcards - Alain Assaf
         1.11 - 03/10/2017 - Added get-xmlbroker function - Alain Assaf
         LAST UPDATED:  03/10/2017
-        AUTHOR      :  Alain Assaf
+        AUTHOR      :  Alain Assaf</pre>
     
     -------------------------- EXAMPLE 1 --------------------------
     
