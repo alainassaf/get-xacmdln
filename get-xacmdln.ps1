@@ -55,7 +55,6 @@ Function Get-xmlbroker {
     PS> Get-xmlbroker SERVERNAME
     Query SERVERNAME to see if it responsive. Assumes that SERVERNAME is a Citrix XML Broker
     .LINK
-    http://cgit0401v.ncsecu.local/Bonobo.Git.Server/Repository/ctxModules/
     http://www.linkedin.com/in/alainassaf/
     http://wagthereal.com
     .NOTES
